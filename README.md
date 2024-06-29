@@ -30,7 +30,7 @@ Start HashCat
 
 ## Screenshots
 
-![App Screenshot](https://github.com/CursedCancer/HolyScan/blob/main/assets/Main%20Menu.png)
+![App Screenshot](HashCat.png)
 
 ## Authors
 
